@@ -7,14 +7,6 @@
   elem_type =EDGE2
 []
 
-
-[AuxVariables]
-  [./Energy]
-    order = CONSTANT
-    family = MONOMIAL
-  [../]
-[]
-
 [Variables]
   # concentration
   [./xCr]
