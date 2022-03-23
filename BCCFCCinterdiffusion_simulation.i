@@ -1,3 +1,6 @@
+# The detailed information is shown in paper:Phase field simulations of FCC to BCC phase transformation in (Al)CrFeNi medium entropy alloys
+# please cite paper if you reproduce based on the code below (doi:10.1186/s41313-021-00034-4)
+
 [Mesh]
   type = GeneratedMesh
   dim =1
